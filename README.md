@@ -19,5 +19,7 @@ O projeto visa otimizar o atendimento ao cliente, oferecendo respostas rápidas 
 ## 📂 Estrutura do Repositório
 plaintext
 .
-├── script.js
-└── style.css
+├── PDFs/
+├── .DS_Store
+├── Imersão_Agentes_de_IA_Alura_+_Google_Gemini (1).ipynb
+└── README.md
