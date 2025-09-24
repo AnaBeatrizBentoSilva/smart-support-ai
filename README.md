@@ -20,6 +20,9 @@ O projeto visa otimizar o atendimento ao cliente, oferecendo respostas rápidas 
 ```plaintext
 .
 ├── PDFs/
+│   ├── Política de Reembolsos (Viagens e Despesas).pdf
+│   ├── Política de Uso de E-mail e Segurança da Informação.pdf
+│   └── Políticas de Home Office.pdf
 ├── .DS_Store
 ├── Imersão_Agentes_de_IA_Alura_+_Google_Gemini (1).ipynb
 └── README.md
